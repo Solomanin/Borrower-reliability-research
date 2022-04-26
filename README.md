@@ -1,2 +1,8 @@
-# Borrower-reliability-research
-# Research of the public catering market in Moscow to make a decision to open a new establishment # Objectives of the project:   Research of the catering market based on open data, preparation of a presentation for investors # Description of the project:  I investigated the question - will the café be successful and popular for a long time, in which guests are served by robot waiters. Based on the results of the analysis,presentation for investors with recommendations. In plotting, I used seaborn and plotly libraries.    # Skills &amp; Tools: Python,Pandas,Seaborn,Plotly, Data Visualization.  
+# Borrowers' Reliability Research – BankIng Data Analysis
+# Objectives of the project: 
+ Based on statistics on the solvency of customers, investigate whether the marital status and the number of children of the client affect the fact of repayment of the loan on time.
+# Description of the project:
+ Based on the data of the credit department of the bank, he investigated the impact of marital status andthe number of children on the fact of repayment of the loan on time. Information was received onData. Gaps have been identified and processed. Replaced the data types with the appropriate onesstored data. Removed duplicates. Lemmas in column values are highlighted, and categorized data.
+ # Skills & Tools:
+Python,Pandas, Data preprocessing
+ 
